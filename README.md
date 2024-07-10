@@ -1,5 +1,11 @@
-## Hi there 👋
+# Kia Ora 👋
+## I'm Nevis Colloty-Spiers
 
+### 👨‍🎓 Currently studying a Bachelor of IT (level 7) at Southern Institute of Technology, Invercargill, New Zealand
+### 🏗️ Working on an electronic judge program for my group's level 7 project
+### :new_zealand:
+
+### 📫 nevis676@gmail.com
 <!--
 **nevis676/nevis676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
